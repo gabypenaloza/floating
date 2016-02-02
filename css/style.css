@@ -1,0 +1,30 @@
+div>div{
+	width: 150px;
+	height: 100px;
+	border: 1px #E0F8E6;
+	background: white;
+	
+}
+
+
+.grande{
+        width: 480px;
+	    
+	    border: 2px solid grey;
+	    background: #fff;
+}
+
+
+.amarillo{
+	      background: #F3F781;
+
+}
+
+
+.azul{
+	      background: #58D3F7;
+}
+
+.fiucsa{
+	      background: #FE2E9A;
+}
