@@ -1,30 +1,29 @@
 div>div{
-	width: 150px;
-	height: 100px;
-	border: 1px #E0F8E6;
-	background: white;
-	
+width: 150px;
+height: 100px;
+border: 1px #E0F8E6;
+background: white;
+float:left;
 }
-
-
 .grande{
-        width: 480px;
-	    
-	    border: 2px solid grey;
-	    background: #fff;
+width: 480px;
+
+border: 2px solid silver;
+background: #fff;
 }
-
-
 .amarillo{
-	      background: #F3F781;
-
+background: #F3F781;
 }
-
-
 .azul{
-	      background: #58D3F7;
+background: #58D3F7;
 }
-
 .fiucsa{
-	      background: #FE2E9A;
+background: #FE2E9A;
+}
+.clearfix:before, .clearfix:after{
+content: "";
+display: table;
+}
+.clearfix:after{
+clear:both;
 }
